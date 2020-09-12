@@ -1,6 +1,7 @@
 name	code
 amulet	amu
 ring	rin
+Jewel	jew
 Hand Axe	hax
 Axe	axe
 Double Axe	2ax
