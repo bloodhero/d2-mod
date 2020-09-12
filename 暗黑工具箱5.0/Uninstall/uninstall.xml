@@ -1,0 +1,3515 @@
+<SUF70UninstallData>
+<DataFilePath>C:\Program Files (x86)\暗黑工具箱5.0\Uninstall\uninstall.dat</DataFilePath>
+<CPRegKey>SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\暗黑工具箱5.05.0</CPRegKey>
+<EXELocation>C:\Windows\暗黑工具箱5.0\uninstall.exe</EXELocation>
+<UninstallFiles>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\atl71.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\ahtool.exe</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\libjcc.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\libjutils.dll</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\PBSHR105.DLL</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\PBVM105.DLL</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\boss.xls</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\game.ini</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\MF与BUGMF.mht</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\战网入门.mht</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\暗黑常识.mht</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\暗黑辞典.mht</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\级别与经验.mht</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\跑符文(RR).mht</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\中文.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\英文.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ama-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ama-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ama1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ama2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ama3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ass-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ass-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ass1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ass2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\ass3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\bar-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\bar-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\bar1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\bar2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\bar3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\blank.gif</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\common-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\common-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\data.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\dru-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\dru-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\dru1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\dru2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\dru3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\nec-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\nec-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\nec1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\nec2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\nec3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\pal-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\pal-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\pal1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\pal2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\pal3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\skills-eng.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\skills-gb.html</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\skills.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\sor-eng.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\sor-gb.js</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\sor1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\sor2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data\sor3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\images\return.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\_themes\d2items\d2it1111.css</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\icon.ico</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_bs.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_bs_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_cg.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_cg_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_ck.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_ck_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_cm.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_cm_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dj_a.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dj_a_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dj_b.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dj_b_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dj_c.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dj_c_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dly.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dly_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dp_ab.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dp_ab_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dp_c.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dp_c_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dtc_ab.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dtc_ab_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dtc_c.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_dtc_c_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fs.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fs_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fz.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fz_ab.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fz_ab_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fz_c.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fz_c_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_fz_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_gb.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_gb_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_gj_a.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_gj_a_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_gj_b.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_gj_b_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_jz_xl_f.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_jz_xl_f_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_kj_a.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_kj_a_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_kj_b.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_kj_b_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_kj_c.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_kj_c_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_qz.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_qz_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_sl.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_sl_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_sqs.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_sqs_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_st.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_st_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_tk.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_tk_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_tz.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_tz_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_xz.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_xz_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_yd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_yd_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_ymr.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_ymr_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_ymx.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_ymx_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_zb_th.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\pic_zb_th_ico.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin\新建 Microsoft Excel 工作表.xls</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\完美的紫宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\完美的红宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\完美的绿宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\完美的蓝宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\完美的钻石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\完美黄宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\无瑕疵的紫宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\无瑕疵的红宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\无瑕疵的绿宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\无瑕疵的蓝宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\无瑕疵的钻石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\无瑕疵的黄宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\碎裂的紫宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\碎裂的红宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\碎裂的绿宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\碎裂的蓝宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\碎裂的钻石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\碎裂的黄宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\紫宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\红宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\绿宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\蓝宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\裂开的紫宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\裂开的红宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\裂开的绿宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\裂开的蓝宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\裂开的钻石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\裂开的黄宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\钻石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs\黄宝石.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood头盔.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood戒指.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood手套.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood武器.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood盔甲.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood盾牌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood腰带.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood鞋子.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\blood项链.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster头盔.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster戒指.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster手套.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster武器.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster盔甲.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster盾牌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster腰带.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster鞋子.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\caster项链.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower头盔.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower戒指.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower手套.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower武器.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower盔甲.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower盾牌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower腰带.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower鞋子.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\hitpower项链.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety头盔.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety戒指.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety手套.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety武器.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety盔甲.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety盾牌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety腰带.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety鞋子.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\safety项链.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\tre1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\tre2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\tre3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\tre4.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\ydt.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\修复.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\升级.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\打孔.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse\洗护身符.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\0.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\1.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\10.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\11.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\12.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\13.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\14.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\15.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\16.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\17.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\18.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\19.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\2.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\20.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\21.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\22.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\23.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\24.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\25.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\26.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\27.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\28.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\29.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\3.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\30.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\31.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\32.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\33.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\4.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\5.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\6.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\7.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\8.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\f\9.JPG</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\1.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\10.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\11.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\12.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\13.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\14.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\15.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\16.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\17.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\18.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\19.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\2.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\20.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\21.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\22.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\23.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\24.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\25.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\26.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\27.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\28.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\29.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\3.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\30.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\31.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\32.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\33.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\4.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\5.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\6.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\7.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\8.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\9.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture\d2home.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\0.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\信心.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\光辉.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\冰冻.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\凤凰.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\刚毅.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\力量.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\原则.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\古代人的契约.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\叶子.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\启迪.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\和平.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\和谐.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\和风.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\品牌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\圣堂.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\天底.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\寂静.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\幽暗.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\弑君者.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\强制.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\思考之声.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\怨恨.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\悔恨.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\愤怒.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\慎重.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\战争召唤.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\执法者.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\押韵.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\新月.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\旋律.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\无限.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\最后希望.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\末日.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\梦境.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\橡树之心.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\正义之手.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\死亡呼吸.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\死神.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\毁灭.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\毒液.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\永恒.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\流亡.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\混沌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\灿烂.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\烟雾.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\热情.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\狂暴.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\狮子心.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\王者的慈悲.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\白色.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\眼光.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\知识.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\石块.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\神圣雷击.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\神话.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\精神.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\背叛.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\荣耀.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\荣耀之链.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\裂缝.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\誓约.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\记忆.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\财富.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\轻风.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\边缘.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\迪勒瑞姆.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\迷团.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\遵从.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\野兽.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\野蔷薇.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\钢铁.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\降雨.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\隐密.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\飞龙.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\饥荒.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\骄傲.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\骨头.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy\黑色.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_aed.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_akn.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_bek.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_bjz.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_bxz.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_dyd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_ged.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_grs.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_hnd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_hsl.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_kld.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_ksd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_kzs.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_mlb.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_mtt.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_mwn.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_njd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_nmw.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_nty.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_sdd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_ssb.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_swd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_tga.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_tkl.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_tlx.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_tsd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_ttd.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_wdl.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_xfb.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_xgt.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_yls.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\pb_ysh.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\不朽之王.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\依森哈德武器室.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\依雷撒精铣炉.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\克雷得劳的.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\北极装置.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\华宁的威严.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\卡珊的陷阱.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\哈斯拉柏.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\地狱的工具.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\坦克雷.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\塔拉夏的外袍.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\塔格奥的化身.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\天上衣服.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\天堂信徒.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\娜吉的古代遗迹.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\娜塔亚的非难.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\孤儿呼唤.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\山德的愚行.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\布尔凯所有的孩子.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\希弗伯法衣.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\格瑞斯华尔德的传奇.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\死亡的伪装.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\沙撒壁.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\牛魔王.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\狂战士的.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\米拉伯佳的雪茄.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\维达拉陷阱.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\艾尔多的守卫.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\西刚.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\门徒.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\阿卡娜的诡计.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+<File>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang\马维娜之战斗诗歌.jpg</Filename>
+<DecrementUsageCount>0</DecrementUsageCount>
+<UnregisterCOM>0</UnregisterCOM>
+<UnregisterFont>0</UnregisterFont>
+<FontDesc/>
+<BackupFile/>
+</File>
+</UninstallFiles>
+<UninstallShortcuts>
+<Filename>C:\Users\Public\Desktop\暗黑工具箱5.0.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\暗黑工具箱5.0\暗黑工具箱5.0.lnk</Filename>
+<Filename>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\暗黑工具箱5.0\卸载 暗黑工具箱5.0.lnk</Filename>
+</UninstallShortcuts>
+<UninstallSupportFiles>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\Uninstall\IRIMG1.JPG</Filename>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\Uninstall\IRIMG2.JPG</Filename>
+<Filename>C:\Program Files (x86)\暗黑工具箱5.0\Uninstall\IRIMG3.JPG</Filename>
+</UninstallSupportFiles>
+<UninstallFolders>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\Uninstall</FolderPath>
+<FolderPath>C:\Windows\暗黑工具箱5.0</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\data</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\data</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\images</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\_themes</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\data\jnmn\_themes\d2items</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\anjin</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\bs</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\chengse</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\f</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\fwpicture</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\fyzy</FolderPath>
+<FolderPath>C:\Program Files (x86)\暗黑工具箱5.0\picture\taozhuang</FolderPath>
+<FolderPath>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\暗黑工具箱5.0</FolderPath>
+</UninstallFolders>
+<SessionVars>
+<Var>
+<Name>%ProductName%</Name>
+<Value>暗黑工具箱5.0</Value>
+</Var>
+<Var>
+<Name>%CompanyName%</Name>
+<Value>WXY</Value>
+</Var>
+<Var>
+<Name>%ProductVer%</Name>
+<Value>5.0</Value>
+</Var>
+<Var>
+<Name>%Copyright%</Name>
+<Value>版权 (C)2005 %CompanyName%</Value>
+</Var>
+<Var>
+<Name>%CompanyURL%</Name>
+<Value></Value>
+</Var>
+<Var>
+<Name>%WindowTitle%</Name>
+<Value>%ProductName% 安装</Value>
+</Var>
+<Var>
+<Name>%AppFolder%</Name>
+<Value>C:\Program Files (x86)\暗黑工具箱5.0</Value>
+</Var>
+<Var>
+<Name>%AppShortcutFolderName%</Name>
+<Value>暗黑工具箱5.0</Value>
+</Var>
+<Var>
+<Name>%ApplicationDataFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Roaming</Value>
+</Var>
+<Var>
+<Name>%CommonFilesFolder%</Name>
+<Value>C:\Program Files (x86)\Common Files</Value>
+</Var>
+<Var>
+<Name>%DesktopFolder%</Name>
+<Value>C:\Users\juhailu\Desktop</Value>
+</Var>
+<Var>
+<Name>%DesktopFolderCommon%</Name>
+<Value>C:\Users\Public\Desktop</Value>
+</Var>
+<Var>
+<Name>%FontsFolder%</Name>
+<Value>C:\Windows\Fonts</Value>
+</Var>
+<Var>
+<Name>%MyDocumentsFolder%</Name>
+<Value>C:\Users\juhailu\Documents</Value>
+</Var>
+<Var>
+<Name>%ProgramFilesFolder%</Name>
+<Value>C:\Program Files (x86)</Value>
+</Var>
+<Var>
+<Name>%StartFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Roaming\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Roaming\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartProgramsFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs</Value>
+</Var>
+<Var>
+<Name>%StartupFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%StartupFolderCommon%</Name>
+<Value>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup</Value>
+</Var>
+<Var>
+<Name>%SystemFolder%</Name>
+<Value>C:\Windows\system32</Value>
+</Var>
+<Var>
+<Name>%WindowsFolder%</Name>
+<Value>C:\Windows</Value>
+</Var>
+<Var>
+<Name>%SystemDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%TempFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Local\Temp</Value>
+</Var>
+<Var>
+<Name>%TempLaunchFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Local\Temp\_ir_sf7_temp_0</Value>
+</Var>
+<Var>
+<Name>%RegOwner%</Name>
+<Value>Microsoft</Value>
+</Var>
+<Var>
+<Name>%RegOrganization%</Name>
+<Value>Microsoft</Value>
+</Var>
+<Var>
+<Name>%AppDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%DAOPath%</Name>
+<Value>%CommonFiles%\Microsoft Shared\DAO</Value>
+</Var>
+<Var>
+<Name>%SourceFilename%</Name>
+<Value>C:\Users\juhailu\AppData\Local\Temp\7zOC02DDA53\暗黑工具箱5.0.exe</Value>
+</Var>
+<Var>
+<Name>%SourceFolder%</Name>
+<Value>C:\Users\juhailu\AppData\Local\Temp\7zOC02DDA53</Value>
+</Var>
+<Var>
+<Name>%SourceDrive%</Name>
+<Value>C:</Value>
+</Var>
+<Var>
+<Name>%UserName%</Name>
+<Value>Microsoft</Value>
+</Var>
+<Var>
+<Name>%UserCompany%</Name>
+<Value>Microsoft</Value>
+</Var>
+<Var>
+<Name>%SpaceAvailable%</Name>
+<Value>18.55 GB</Value>
+</Var>
+<Var>
+<Name>%SpaceRequired%</Name>
+<Value>23.3 MB</Value>
+</Var>
+</SessionVars>
+</SUF70UninstallData>
