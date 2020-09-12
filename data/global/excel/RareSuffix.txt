@@ -126,18 +126,18 @@ eye	0	misc											0	0	0
 turn	0	ring											0	0	0
 spiral	0	ring											0	0	0
 coil	0	ring											0	0	0
-gyre	0	ring	orb	jewl									0	0	0
+gyre	0	ring	orb	jewl	scha	mcha	lcha						0	0	0
 band	0	ring											0	0	0
-whorl	0	ring	orb	jewl									0	0	0
-talisman	0	amul	jewl										0	0	0
-heart	0	amul	orb	jewl									0	0	0
+whorl	0	ring	orb	jewl	scha	mcha	lcha						0	0	0
+talisman	0	amul	jewl	scha	mcha	lcha							0	0	0
+heart	0	amul	orb	jewl	scha	mcha	lcha						0	0	0
 noose	0	amul											0	0	0
 necklace	0	amul											0	0	0
 collar	0	amul											0	0	0
 beads	0	amul											0	0	0
 torc	0	amul											0	0	0
 gorget	0	amul											0	0	0
-scarab	0	amul	jewl										0	0	0
+scarab	0	amul	jewl	scha	mcha	lcha							0	0	0
 wood	0	spea	pole	wand	staf								0	0	0
 brand	0	blun											0	0	0
 bludgeon	0	blun											0	0	0

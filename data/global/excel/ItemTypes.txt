@@ -82,9 +82,9 @@ Rejuv Potion	rpot	hpot	mpot	0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc
 Stamina Potion	spot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Antidote Potion	apot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
 Thawing Potion	wpot	poti		0	0					0	0	0	0			1	0	0	1	0	0	0	0	3		0		0							misc	0
-Small Charm	scha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch1	invch4	invch7				misc	0
-Medium Charm	mcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch2	invch5	invch8				misc	0
-Large Charm	lcha	char		0	0					0	0	0	0	1		0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				misc	0
+Small Charm	scha	char		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		3	invch1	invch4	invch7				misc	0
+Medium Charm	mcha	char		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		3	invch2	invch5	invch8				misc	0
+Large Charm	lcha	char		0	0					0	0	0	0	1	1	0	1	0	0	0	0	0	0	3		0		3	invch3	invch6	invch9				misc	0
 Amazon Bow	abow	bow	amaz	0	1	rarm	larm	bowq		0	0	0	0		1	0	0	0	0	3	4	5	1	1		0	ama	0							weap	0
 Amazon Spear	aspe	spea	amaz	1	1	rarm	larm			0	0	0	0		1	0	0	0	0	3	4	6	0	1		0	ama	0							weap	0
 Amazon Javelin	ajav	jave	amaz	1	1	rarm	larm			1	1	1	1		1	0	0	0	0	0	0	0	0	1		0	ama	0							misc	0
