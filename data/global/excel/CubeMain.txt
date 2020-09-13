@@ -23,124 +23,125 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 2弓箭=1弩箭 	1			0					2	"aqv,qty=2"							cqv																																																																																							0
 2弩箭=1弓箭 	1			0					2	"cqv,qty=2"							aqv																																																																																							0
 [宝石升级]=3低级宝石合1高级宝石	1			0					3	"gcv,qty=3"							gfv																																																																																							0
-	1			0					3	"gfv,qty=3"							gsv																																																																																							0
-	1			0					3	"gsv,qty=3"							gzv																																																																																							0
-	1			0					3	"gzv,qty=3"							gpv																																																																																							0
-	1			0					3	"gcr,qty=3"							gfr																																																																																							0
-	1			0					3	"gfr,qty=3"							gsr																																																																																							0
-	1			0					3	"gsr,qty=3"							glr																																																																																							0
-	1			0					3	"glr,qty=3"							gpr																																																																																							0
-	1			0					3	"gcb,qty=3"							gfb																																																																																							0
-	1			0					3	"gfb,qty=3"							gsb																																																																																							0
-	1			0					3	"gsb,qty=3"							glb																																																																																							0
-	1			0					3	"glb,qty=3"							gpb																																																																																							0
-	1			0					3	"gcy,qty=3"							gfy																																																																																							0
-	1			0					3	"gfy,qty=3"							gsy																																																																																							0
-	1			0					3	"gsy,qty=3"							gly																																																																																							0
-	1			0					3	"gly,qty=3"							gpy																																																																																							0
-	1			0					3	"gcg,qty=3"							gfg																																																																																							0
-	1			0					3	"gfg,qty=3"							gsg																																																																																							0
-	1			0					3	"gsg,qty=3"							glg																																																																																							0
-	1			0					3	"glg,qty=3"							gpg																																																																																							0
-	1			0					3	"gcw,qty=3"							gfw																																																																																							0
-	1			0					3	"gfw,qty=3"							gsw																																																																																							0
-	1			0					3	"gsw,qty=3"							glw																																																																																							0
-	1			0					3	"glw,qty=3"							gpw																																																																																							0
-	1			0					3	"skc,qty=3"							skf																																																																																							0
-	1			0					3	"skf,qty=3"							sku																																																																																							0
-	1			0					3	"sku,qty=3"							skl																																																																																							0
+[        ]	1			0					3	"gfv,qty=3"							gsv																																																																																							0
+[        ]	1			0					3	"gsv,qty=3"							gzv																																																																																							0
+[        ]	1			0					3	"gzv,qty=3"							gpv																																																																																							0
+[        ]	1			0					3	"gcr,qty=3"							gfr																																																																																							0
+[        ]	1			0					3	"gfr,qty=3"							gsr																																																																																							0
+[        ]	1			0					3	"gsr,qty=3"							glr																																																																																							0
+[        ]	1			0					3	"glr,qty=3"							gpr																																																																																							0
+[        ]	1			0					3	"gcb,qty=3"							gfb																																																																																							0
+[        ]	1			0					3	"gfb,qty=3"							gsb																																																																																							0
+[        ]	1			0					3	"gsb,qty=3"							glb																																																																																							0
+[        ]	1			0					3	"glb,qty=3"							gpb																																																																																							0
+[        ]	1			0					3	"gcy,qty=3"							gfy																																																																																							0
+[        ]	1			0					3	"gfy,qty=3"							gsy																																																																																							0
+[        ]	1			0					3	"gsy,qty=3"							gly																																																																																							0
+[        ]	1			0					3	"gly,qty=3"							gpy																																																																																							0
+[        ]	1			0					3	"gcg,qty=3"							gfg																																																																																							0
+[        ]	1			0					3	"gfg,qty=3"							gsg																																																																																							0
+[        ]	1			0					3	"gsg,qty=3"							glg																																																																																							0
+[        ]	1			0					3	"glg,qty=3"							gpg																																																																																							0
+[        ]	1			0					3	"gcw,qty=3"							gfw																																																																																							0
+[        ]	1			0					3	"gfw,qty=3"							gsw																																																																																							0
+[        ]	1			0					3	"gsw,qty=3"							glw																																																																																							0
+[        ]	1			0					3	"glw,qty=3"							gpw																																																																																							0
+[        ]	1			0					3	"skc,qty=3"							skf																																																																																							0
+[        ]	1			0					3	"skf,qty=3"							sku																																																																																							0
+[        ]	1			0					3	"sku,qty=3"							skl																																																																																							0
 [宝石升级]====	1			0					3	"skl,qty=3"							skz																																																																																							0
 [1-10#升级]=3低级符文合1高级符文	1			100					3	"r01,qty=3"							r02																																																																																							0
-	1			100					3	"r02,qty=3"							r03																																																																																							0
-	1			100					3	"r03,qty=3"							r04																																																																																							0
-	1			100					3	"r04,qty=3"							r05																																																																																							0
-	1			100					3	"r05,qty=3"							r06																																																																																							0
-	1			100					3	"r06,qty=3"							r07																																																																																							0
-	1			100					3	"r07,qty=3"							r08																																																																																							0
-	1			100					3	"r08,qty=3"							r09																																																																																							0
+[        ]	1			100					3	"r02,qty=3"							r03																																																																																							0
+[        ]	1			100					3	"r03,qty=3"							r04																																																																																							0
+[        ]	1			100					3	"r04,qty=3"							r05																																																																																							0
+[        ]	1			100					3	"r05,qty=3"							r06																																																																																							0
+[        ]	1			100					3	"r06,qty=3"							r07																																																																																							0
+[        ]	1			100					3	"r07,qty=3"							r08																																																																																							0
+[        ]	1			100					3	"r08,qty=3"							r09																																																																																							0
 [1-10#升级]====	1			100					3	"r09,qty=3"							r10																																																																																							0
 洗蓝色物品=3完美宝石	1			100					4	"any,mag"	"gem4,qty=3"						"usetype,mag"			100																																																																																				0
 洗黄色物品【降级】=6完美骷髅	1			0					7	"any,rar"	"skz,qty=6"						"usetype,rar"		40	40																																																																																				0
 洗黄色物品【升级】=1完美骷髅+1乔丹之石	1			0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
 黄色装备打1孔=3完美骷髅+1乔丹之石	1			0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
 [手工物品]	1			100					4	"fhl,mag,upg"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
-	1			100					4	"mbt,mag,upg"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
-	1			100					4	"mgl,mag,upg"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
-	1			100					4	"tbl,mag,upg"	jew	r07	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10																																																																					0
-	1			100					4	"gts,mag,upg"	jew	r05	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10																																																																					0
-	1			100					4	"fld,mag,upg"	jew	r04	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20																																																																					0
-	1			100					4	"amul,mag"	jew	r10	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	howl			5	15																																																																					0
-	1			100					4	"ring,mag"	jew	r11	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	6	dex			1	5																																																																					0
-	1			100					4	"blun,mag"	jew	r03	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60																																																																					0
-	1			100					4	"hlm,mag,upg"	jew	r08	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	deadly			5	10																																																																					0
-	1			100					4	"tbt,mag,upg"	jew	r05	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	regen			5	10																																																																					0
-	1			100					4	"vgl,mag,upg"	jew	r04	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	crush			5	10																																																																					0
-	1			100					4	"mbl,mag,upg"	jew	r07	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10																																																																					0
-	1			100					4	"spk,mag,upg"	jew	r06	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	thorns			4	7																																																																					0
-	1			100					4	"plt,mag,upg"	jew	r10	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3																																																																					0
-	1			100					4	"amul,mag"	jew	r11	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	move1			5	10																																																																					0
-	1			100					4	"ring,mag"	jew	r12	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	str			1	5																																																																					0
-	1			100					4	"axe,mag"	jew	r09	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60																																																																					0
-	1			100					4	"msk,mag,upg"	jew	r04	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4																																																																					0
-	1			100					4	"lbt,mag,upg"	jew	r10	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			2	5																																																																					0
-	1			100					4	"lgl,mag,upg"	jew	r09	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
-	1			100					4	"vbl,mag,upg"	jew	r06	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
-	1			100					4	"sml,mag,upg"	jew	r05	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	block			5	10																																																																					0
-	1			100					4	"ltp,mag,upg"	jew	r07	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
-	1			100					4	"amul,mag"	jew	r08	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
-	1			100					4	"ring,mag"	jew	r11	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	enr			1	5																																																																					0
-	1			100					4	"rod,mag"	jew	r03	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			1	5																																																																					0
-	1			100					4	"crn,mag,upg"	jew	r06	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30																																																																0
-	1			100					4	"hbt,mag,upg"	jew	r09	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30																																																																0
-	1			100					4	"hgl,mag,upg"	jew	r08	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30																																																																0
-	1			100					4	"lbl,mag,upg"	jew	r07	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30																																																																0
-	1			100					4	"kit,mag,upg"	jew	r04	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30																																																																0
-	1			100					4	"brs,mag,upg"	jew	r05	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30																																																																0
-	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
-	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
+[        ]	1			100					4	"mbt,mag,upg"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
+[        ]	1			100					4	"mgl,mag,upg"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
+[        ]	1			100					4	"tbl,mag,upg"	jew	r07	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg-to-mana			5	10																																																																					0
+[        ]	1			100					4	"gts,mag,upg"	jew	r05	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	block			5	10																																																																					0
+[        ]	1			100					4	"fld,mag,upg"	jew	r04	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	balance1			10	20																																																																					0
+[        ]	1			100					4	"amul,mag"	jew	r10	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	10	howl			5	15																																																																					0
+[        ]	1			100					4	"ring,mag"	jew	r11	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	6	dex			1	5																																																																					0
+[        ]	1			100					4	"blun,mag"	jew	r03	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	dmg%			35	60																																																																					0
+[        ]	1			100					4	"hlm,mag,upg"	jew	r08	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	deadly			5	10																																																																					0
+[        ]	1			100					4	"tbt,mag,upg"	jew	r05	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	regen			5	10																																																																					0
+[        ]	1			100					4	"vgl,mag,upg"	jew	r04	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	crush			5	10																																																																					0
+[        ]	1			100					4	"mbl,mag,upg"	jew	r07	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	openwounds			5	10																																																																					0
+[        ]	1			100					4	"spk,mag,upg"	jew	r06	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	thorns			4	7																																																																					0
+[        ]	1			100					4	"plt,mag,upg"	jew	r10	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	demon-heal			1	3																																																																					0
+[        ]	1			100					4	"amul,mag"	jew	r11	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	move1			5	10																																																																					0
+[        ]	1			100					4	"ring,mag"	jew	r12	gpr				"usetype,crf"		50	50	lifesteal			1	3	hp			10	20	str			1	5																																																																					0
+[        ]	1			100					4	"axe,mag"	jew	r09	gpr				"usetype,crf"		50	50	lifesteal			1	4	hp			10	20	dmg%			35	60																																																																					0
+[        ]	1			100					4	"msk,mag,upg"	jew	r04	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	manasteal			1	4																																																																					0
+[        ]	1			100					4	"lbt,mag,upg"	jew	r10	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			2	5																																																																					0
+[        ]	1			100					4	"lgl,mag,upg"	jew	r09	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+[        ]	1			100					4	"vbl,mag,upg"	jew	r06	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+[        ]	1			100					4	"sml,mag,upg"	jew	r05	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	block			5	10																																																																					0
+[        ]	1			100					4	"ltp,mag,upg"	jew	r07	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana-kill			1	3																																																																					0
+[        ]	1			100					4	"amul,mag"	jew	r08	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	cast1			5	10																																																																					0
+[        ]	1			100					4	"ring,mag"	jew	r11	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	enr			1	5																																																																					0
+[        ]	1			100					4	"rod,mag"	jew	r03	gpv				"usetype,crf"		50	50	regen-mana			4	10	mana			10	20	mana%			1	5																																																																					0
+[        ]	1			100					4	"crn,mag,upg"	jew	r06	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-ltng			5	10	ac%			10	30																																																																0
+[        ]	1			100					4	"hbt,mag,upg"	jew	r09	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-fire			5	10	ac%			10	30																																																																0
+[        ]	1			100					4	"hgl,mag,upg"	jew	r08	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-cold			5	10	ac%			10	30																																																																0
+[        ]	1			100					4	"lbl,mag,upg"	jew	r07	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-pois			5	10	ac%			10	30																																																																0
+[        ]	1			100					4	"kit,mag,upg"	jew	r04	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	res-mag			5	10	ac%			10	30																																																																0
+[        ]	1			100					4	"brs,mag,upg"	jew	r05	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	half-freeze			1	1	ac%			10	30																																																																0
+[        ]	1			100					4	"amul,mag"	jew	r10	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	block			1	10																																																																					0
+[        ]	1			100					4	"ring,mag"	jew	r11	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	vit			1	5																																																																					0
 [手工物品]====	1			100					4	"spea,mag"	jew	r12	gpg				"usetype,crf"		50	50	red-dmg			1	4	red-mag			1	2	ac%			5	10																																																																					0
 [11-33#符文升级]	1			100					4	"r10,qty=3"	gcy						r11																																																																																							0
-	1			100					4	"r11,qty=3"	gcv						r12																																																																																							0
-	1			100					4	"r12,qty=3"	gcb						r13																																																																																							0
-	1			100					4	"r13,qty=3"	gcr						r14																																																																																							0
-	1	1		100					4	"r14,qty=3"	gcg						r15																																																																																							0
-	1	1		100					4	"r15,qty=3"	gcw						r16																																																																																							0
-	1	1		100					4	"r16,qty=3"	gfy						r17																																																																																							0
-	1	1		100					4	"r17,qty=3"	gfv						r18																																																																																							0
-	1	1		100					4	"r18,qty=3"	gfb						r19																																																																																							0
-	1	1		100					4	"r19,qty=3"	gfr						r20																																																																																							0
-	1	1		100					4	"r20,qty=3"	gfg						r21																																																																																							0
-	1	1		100					3	"r21,qty=2"	gfw						r22																																																																																							0
-	1	1		100					3	"r22,qty=2"	gsy						r23																																																																																							0
-	1	1		100					3	"r23,qty=2"	gsv						r24																																																																																							0
-	1	1		100					3	"r24,qty=2"	gsb						r25																																																																																							0
-	1	1		100					3	"r25,qty=2"	gsr						r26																																																																																							0
-	1	1		100					3	"r26,qty=2"	gsg						r27																																																																																							0
-	1	1		100					3	"r27,qty=2"	gsw						r28																																																																																							0
-	1	1		100					3	"r28,qty=2"	gly						r29																																																																																							0
-	1	1		100					3	"r29,qty=2"	gzv						r30																																																																																							0
-	1	1		100					3	"r30,qty=2"	glb						r31																																																																																							0
-	1	1		100					3	"r31,qty=2"	glr						r32																																																																																							0
+[        ]	1			100					4	"r11,qty=3"	gcv						r12																																																																																							0
+[        ]	1			100					4	"r12,qty=3"	gcb						r13																																																																																							0
+[        ]	1			100					4	"r13,qty=3"	gcr						r14																																																																																							0
+[        ]	1	1		100					4	"r14,qty=3"	gcg						r15																																																																																							0
+[        ]	1	1		100					4	"r15,qty=3"	gcw						r16																																																																																							0
+[        ]	1	1		100					4	"r16,qty=3"	gfy						r17																																																																																							0
+[        ]	1	1		100					4	"r17,qty=3"	gfv						r18																																																																																							0
+[        ]	1	1		100					4	"r18,qty=3"	gfb						r19																																																																																							0
+[        ]	1	1		100					4	"r19,qty=3"	gfr						r20																																																																																							0
+[        ]	1	1		100					4	"r20,qty=3"	gfg						r21																																																																																							0
+[        ]	1	1		100					3	"r21,qty=2"	gfw						r22																																																																																							0
+[        ]	1	1		100					3	"r22,qty=2"	gsy						r23																																																																																							0
+[        ]	1	1		100					3	"r23,qty=2"	gsv						r24																																																																																							0
+[        ]	1	1		100					3	"r24,qty=2"	gsb						r25																																																																																							0
+[        ]	1	1		100					3	"r25,qty=2"	gsr						r26																																																																																							0
+[        ]	1	1		100					3	"r26,qty=2"	gsg						r27																																																																																							0
+[        ]	1	1		100					3	"r27,qty=2"	gsw						r28																																																																																							0
+[        ]	1	1		100					3	"r28,qty=2"	gly						r29																																																																																							0
+[        ]	1	1		100					3	"r29,qty=2"	gzv						r30																																																																																							0
+[        ]	1	1		100					3	"r30,qty=2"	glb						r31																																																																																							0
+[        ]	1	1		100					3	"r31,qty=2"	glr						r32																																																																																							0
 [11-33#符文升级]====	1	1		100					3	"r32,qty=2"	glg						r33																																																																																							0
 [装备打孔]	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
-	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
-	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
-[装备打孔]====	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
+[        ]	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
+[        ]	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
+[        ]	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
 [装备品级升级]=基础->扩展->精英	1			100					3	"weap,low"	r02	gem0					"usetype,nor"																																																																																							0
-	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
-	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
-	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
-	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
-	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
-	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
-	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
+[        ]	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
+[        ]	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
+[        ]	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
+[        ]	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
+[        ]	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
+[        ]	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
+[        ]	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
+[        ]	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
 [装备品级升级]====	1			100					4	"armo,exc,rar"	r18	r21	gpv				"useitem,mod,eli"				levelreq			7	7																																																																															0
 修复武器=9#	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
 修复防具=8#	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
 修复武器并充能=9#+碎裂宝石	1			100					3	"weap,noe"	r09	gem0					"useitem,rep,rch,qty=255"																																																																																							0
 修复防具并充能=8#+裂开宝石	1			100					3	"armo,noe"	r08	gem1					"useitem,rep,rch,qty=255"																																																																																							0
 去掉凹槽物品=15#+回城卷	1			100					3	"any,sock"	r15	tsc					"useitem,uns"																																																																																							0
+取下凹槽物品=24#+回城卷	1			0					3	any,sock	r24	tsc					useitem,rem																																																																																							0
 r08 + jew + superior armor -> tempered armor				100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
 r08 + jew + superior weapon -> tempered weapon				100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
 r08 + jew + magic ring -> tempered ring				100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
@@ -150,3 +151,80 @@ r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					use
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
+[符文降级]=高级符文+溶解药剂	1			100					2	r33	wms						r32																																																																																							0
+[        ]	1			100					2	r32	wms						r31																																																																																							0
+[        ]	1			100					2	r31	wms						r30																																																																																							0
+[        ]	1			100					2	r30	wms						r29																																																																																							0
+[        ]	1			100					2	r29	wms						r28																																																																																							0
+[        ]	1			100					2	r28	wms						r27																																																																																							0
+[        ]	1			100					2	r27	wms						r26																																																																																							0
+[        ]	1			100					2	r26	wms						r25																																																																																							0
+[        ]	1			100					2	r25	wms						r24																																																																																							0
+[        ]	1			100					2	r24	wms						r23																																																																																							0
+[        ]	1			100					2	r23	wms						r22																																																																																							0
+[        ]	1			100					2	r22	wms						r21																																																																																							0
+[        ]	1			100					2	r21	wms						r20																																																																																							0
+[        ]	1			100					2	r20	wms						r19																																																																																							0
+[        ]	1			100					2	r19	wms						r18																																																																																							0
+[        ]	1			100					2	r18	wms						r17																																																																																							0
+[        ]	1			100					2	r17	wms						r16																																																																																							0
+[        ]	1			100					2	r16	wms						r15																																																																																							0
+[        ]	1			100					2	r15	wms						r14																																																																																							0
+[        ]	1			100					2	r14	wms						r13																																																																																							0
+[        ]	1			100					2	r13	wms						r12																																																																																							0
+[        ]	1			100					2	r12	wms						r11																																																																																							0
+[        ]	1			100					2	r11	wms						r10																																																																																							0
+[        ]	1			100					2	r10	wms						r09																																																																																							0
+[        ]	1			100					2	r09	wms						r08																																																																																							0
+[        ]	1			100					2	r08	wms						r07																																																																																							0
+[        ]	1			100					2	r07	wms						r06																																																																																							0
+[        ]	1			100					2	r06	wms						r05																																																																																							0
+[        ]	1			100					2	r05	wms						r04																																																																																							0
+[        ]	1			100					2	r04	wms						r03																																																																																							0
+[        ]	1			100					2	r03	wms						r02																																																																																							0
+[符文降级]====	1			100					2	r02	wms						r01																																																																																							0
+普通物品溶解成宝石	1			100					2	any,bas,mag	wms						gem3																																																																																							0
+[        ]	1			100					2	any,bas,rar	wms						gem3																													gem3																																																										0
+[        ]	1			100					2	any,bas,uni	wms						gem4																																																																																							0
+扩展物品溶解成宝石	1			100					2	any,exc,mag	wms						gem3																													gem3																																																										0
+[        ]	1			100					2	any,exc,rar	wms						gem4																																																																																							0
+[        ]	1			100					2	any,exc,uni	wms						gem4																													gem4																																																										0
+精英物品溶解成宝石	1			100					2	any,eli,mag	wms						gem4																																																																																							0
+[        ]	1			100					2	any,eli,rar	wms						gem4																													gem4																																																										0
+[        ]	1			100					2	any,eli,uni	wms						gem4																													gem4																													gem4																													0
+绿色物品溶解成宝石	1			100					2	any,set,eli	wms						gem4																													gem4																													gem4																													0
+[        ]	1			100					2	any,set,exc	wms						gem4																													gem4																																																										0
+[        ]	1			100					2	any,set	wms						gem4																																																																																							0
+手工物品溶解成宝石	1			100					2	any,crf,upg	wms						gem4																																																																																							0
+[打孔]=1符文+1完美宝石+1溶解药剂	1			100					4	weap,nor,nos	rune	wms	gem4				useitem			100	sock			2	6																																																																															0
+[        ]	1			100					4	armo,nor,nos	rune	wms	gem4				useitem			100	sock			2	4																																																																															0
+[        ]	1			100					4	weap,hiq,nos	rune	wms	gem4				useitem			100	sock			2	6																																																																															0
+[        ]	1			100					4	armo,hiq,nos	rune	wms	gem4				useitem			100	sock			2	4																																																																															0
+[        ]	1			100					4	weap,mag,nos	rune	wms	gem4				useitem			100	sock			2	6																																																																															0
+[        ]	1			100					4	armo,mag,nos	rune	wms	gem4				useitem			100	sock			2	4																																																																															0
+[        ]	1			100					4	weap,rar,nos	rune	wms	gem4				useitem			100	sock			2	2																																																																															0
+[        ]	1			100					4	armo,rar,nos	rune	wms	gem4				useitem			100	sock			2	2																																																																															0
+[        ]	1			100					4	weap,nos	rune	wms	gem4				useitem			100	sock			1	1																																																																															0
+[打孔]====	1			100					4	armo,nos	rune	wms	gem4				useitem			100	sock			1	1																																																																															0
+ED珠宝=6种完美宝石+蓝色珠宝	1			100					7	jew,mag	gpw	gpv	gpb	gpy	gpr	gpg	jew,mag,pre=197	50																																																																																						0
+[洗饰品属性]=同类饰品x2	1			0					2	"rin,mag,qty=2"							"rin,mag"			125																																																																																				0
+[        ]	1			0					2	"amu,mag,qty=2"							"amu,mag"			125																																																																																				0
+[        ]	1			0					2	rin,rar,qty=2							rin,rar			125																																																																																				0
+[        ]	1			0					2	amu,rar,qty=2							amu,rar			125																																																																																				0
+[        ]	1			100					2	jew,mag,qty=2							jew,mag			125																																																																																				0
+[        ]	1			100					2	jew,rar,qty=2							jew,rar			125																																																																																				0
+[        ]	1			100					2	cm1,mag,qty=2							cm1,mag			125																																																																																				0
+[        ]	1			100					2	cm2,mag,qty=2							cm2,mag			125																																																																																				0
+[        ]	1			100					2	cm3,mag,qty=2							cm3,mag			125																																																																																				0
+[        ]	1			100					2	cm1,rar,qty=2							cm1,rar			125																																																																																				0
+[        ]	1			100					2	cm2,rar,qty=2							cm2,rar			125																																																																																				0
+[洗饰品属性]====	1			100					2	cm3,rar,qty=2							cm3,rar			125																																																																																				0
+[做无形无法破坏]=33#+1乔丹之石+解读药剂	1			100					4	any,nor,sock	r33	soj	yps				useitem			100	indestruct			-1	-1	ethereal			1	1	indestruct			1	1																																																																					0
+[        ]	1			100					4	any,hiq,sock	r33	soj	yps				useitem			100	indestruct			-1	-1	ethereal			1	1	indestruct			1	1																																																																					0
+[        ]	1			100					4	any,sock,eth	r33	soj	yps				useitem			100	indestruct			1	1																																																																															0
+洗白色物品=1亮金	1			100					2	weap,nor	any,rar						usetype,hiq			100																																																																																				0
+[        ]	1			100					2	armo,nor	any,rar						usetype,hiq			100																																																																																				0
+[        ]	1			100					2	any,hiq	any,rar						usetype,hiq			100																																																																																				0
+洗蓝色物品=1绿装	1			100					2	any,mag	any,set						usetype,mag			100																																																																																				0
+洗亮金物品=1暗金	1			100					2	any,rar	any,uni						usetype,rar			100																																																																																				0
+魔法变亮金=3符文+3完美宝石	1			100					7	any,mag	rune,qty=3	gem4,qty=3					usetype,rar			100																																																																																				0
