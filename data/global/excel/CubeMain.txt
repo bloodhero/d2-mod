@@ -2,8 +2,6 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 任务(勿动)	1			0	28				2	msf	vip						hst																																																																																							0
 任务(勿动)	1			0	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 合成奶牛关	1			0	28				2	leg	tbk						Cow Portal																																																																																							0
-3红瓶+3蓝瓶+普通宝石=1大紫	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem2					rvl																																																																																							0
-3红瓶+3蓝瓶+碎裂宝石=1小紫	1			0					7	"hpot,qty=3"	"mpot,qty=3"	gem0					rvs																																																																																							0
 3小紫=1大紫	1			0					3	"rvs,qty=3"							rvl																																																																																							0
 6种完美宝石+1蓝色护身符=棱镜护身符（提供所有抗性）	1			0					7	"amu,mag"	gpv	gpy	gpb	gpg	gpr	gpw	"amu,mag,pre=331"	50																																																																																						0
 1蓝色戒指+1完美红宝石+1爆炸剂=深红戒指（提供抗火属性）	1			0					3	"rin,mag"	gpr	opm					"rin,mag,pre=372"	30																																																																																						0
@@ -12,10 +10,8 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 1蓝色戒指+1完美绿宝石+1解毒剂=碧绿戒指（提供抗毒属性） 	1			0					3	"rin,mag"	gpg	yps					"rin,mag,pre=412"	30																																																																																						0
 1斧子+1匕首=飞斧	1			0					2	axe	knif						"tax,nor"																																																																																							0
 1长矛+1弓箭=标枪 	1			0					2	spea	aqv						"jav,nor"																																																																																							0
-3魔法戒指=1魔法护身符	1			0					3	"rin,mag,qty=3"							"amu,mag"		75																																																																																					0
-3魔法护身符=1魔法戒指	1			0					3	"amu,mag,qty=3"							"rin,mag"		75																																																																																					0
-3普通宝石+1有孔武器=蓝色有孔武器	1			0					4	"weap,sock"	"gem2,qty=3"						"usetype,mag"	30		60	sock			1	2																																																																															0
-3无瑕宝石+1蓝色武器=蓝色有孔武器	1			0					4	"weap,mag"	"gem3,qty=3"						"usetype,mag"	30		60	sock			1	2																																																																															0
+3蓝色戒指=1亮金护身符	1			0					3	"rin,mag,qty=3"							"amu,rar"			125																																																																																				0
+3蓝色护身符=1亮金戒指	1			0					3	"amu,mag,qty=3"							"rin,rar"			125																																																																																				0
 1蓝色小盾+1钉锤+2骷髅=地钉盾	1			0					4	"shld,mag"	"gemz,qty=2"	spc					"usetype,mag,suf=162"	30		60																																																																																				0
 4红瓶+1红宝石+1魔法剑=吸血剑	1			0					6	"swor,mag"	gemr	"hpot,qty=4"					"usetype,mag,suf=352"	30		60																																																																																				0
 1钻石+1长棍/法杖+1腰带+1波刃剑=野蛮的长柄	1			0					4	kri	gemd	staf	belt				"pole,mag,pre=191"	50		60																																																																																				0
@@ -59,10 +55,6 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 [        ]	1			100					3	"r07,qty=3"							r08																																																																																							0
 [        ]	1			100					3	"r08,qty=3"							r09																																																																																							0
 [1-10#升级]====	1			100					3	"r09,qty=3"							r10																																																																																							0
-洗蓝色物品=3完美宝石	1			100					4	"any,mag"	"gem4,qty=3"						"usetype,mag"			100																																																																																				0
-洗黄色物品【降级】=6完美骷髅	1			0					7	"any,rar"	"skz,qty=6"						"usetype,rar"		40	40																																																																																				0
-洗黄色物品【升级】=1完美骷髅+1乔丹之石	1			0					3	"any,rar"	skz	The Stone of Jordan					"usetype,rar"		66	66																																																																																				0
-黄色装备打1孔=3完美骷髅+1乔丹之石	1			0					5	"any,rar,nos"	"skz,qty=3"	The Stone of Jordan					"useitem,sock=1"																																																																																							0
 [手工物品]	1			100					4	"fhl,mag,upg"	jew	r06	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-miss			25	50																																																																					0
 [        ]	1			100					4	"mbt,mag,upg"	jew	r08	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	ac-hth			25	60																																																																					0
 [        ]	1			100					4	"mgl,mag,upg"	jew	r09	gpb				"usetype,crf"		50	50	gethit-skill		44	5	4	thorns			3	7	knock			1	1																																																																					0
@@ -122,32 +114,26 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 [        ]	1	1		100					3	"r30,qty=2"	glb						r31																																																																																							0
 [        ]	1	1		100					3	"r31,qty=2"	glr						r32																																																																																							0
 [11-33#符文升级]====	1	1		100					3	"r32,qty=2"	glg						r33																																																																																							0
-[装备打孔]	1			100					4	"tors,nor,nos"	r07	r10	gpy				useitem				sock			1	6																																																																															0
-[        ]	1			100					4	"weap,nor,nos"	r08	r11	gpv				useitem				sock			1	6																																																																															0
-[        ]	1			100					4	"helm,nor,nos"	r08	r10	gpb				useitem				sock			1	6																																																																															0
-[        ]	1			100					4	"shld,nor,nos"	r07	r11	gpr				useitem				sock			1	6																																																																															0
-[装备品级升级]=基础->扩展->精英	1			100					3	"weap,low"	r02	gem0					"usetype,nor"																																																																																							0
-[        ]	1			100					3	"armo,low"	r01	gem0					"usetype,nor"																																																																																							0
-[        ]	1			100					4	"weap,bas,uni"	r08	r12	gpg				"useitem,mod,exc"				levelreq			5	5																																																																															0
-[        ]	1			100					4	"armo,bas,uni"	r07	r13	gpw				"useitem,mod,exc"				levelreq			5	5																																																																															0
-[        ]	1	1		100					4	"weap,exc,uni"	r17	r21	gpg				"useitem,mod,eli"				levelreq			7	7																																																																															0
-[        ]	1	1		100					4	"armo,exc,uni"	r18	r20	gpw				"useitem,mod,eli"				levelreq			7	7																																																																															0
-[        ]	1			100					4	"weap,bas,rar"	r09	r11	gpb				"useitem,mod,exc"				levelreq			5	5																																																																															0
-[        ]	1			100					4	"armo,bas,rar"	r08	r10	gpv				"useitem,mod,exc"				levelreq			5	5																																																																															0
-[        ]	1			100					4	"weap,exc,rar"	r19	r22	gpb				"useitem,mod,eli"				levelreq			7	7																																																																															0
-[装备品级升级]====	1			100					4	"armo,exc,rar"	r18	r21	gpv				"useitem,mod,eli"				levelreq			7	7																																																																															0
+[装备品级升级]=基础->扩展->精英=15#+19#+完美骷髅	1	1		100					4	"weap,low"	r15	r19	skz				"usetype,nor"																																																																																							0
+[        ]	1	1		100					4	"armo,low"	r15	r19	skz				"usetype,nor"																																																																																							0
+[        ]	1	1		100					4	"weap,bas,mag"	r15	r19	skz				"usetype,mod,exc"																																																																																							0
+[        ]	1	1		100					4	"armo,bas,mag"	r15	r19	skz				"usetype,mod,exc"																																																																																							0
+[        ]	1	1		100					4	"weap,bas,rar"	r15	r19	skz				"useitem,mod,exc"																																																																																							0
+[        ]	1	1		100					4	"armo,bas,rar"	r15	r19	skz				"useitem,mod,exc"																																																																																							0
+[        ]	1	1		100					4	"weap,bas,uni"	r15	r19	skz				"useitem,mod,exc"																																																																																							0
+[        ]	1	1		100					4	"armo,bas,uni"	r15	r19	skz				"useitem,mod,exc"																																																																																							0
+[        ]	1	1		100					4	"weap,exc,mag"	r15	r19	skz				"useitem,mod,eli"																																																																																							0
+[        ]	1	1		100					4	"armo,exc,mag"	r15	r19	skz				"useitem,mod,eli"																																																																																							0
+[        ]	1	1		100					4	"weap,exc,rar"	r15	r19	skz				"useitem,mod,eli"																																																																																							0
+[        ]	1	1		100					4	"armo,exc,rar"	r15	r19	skz				"useitem,mod,eli"																																																																																							0
+[        ]	1	1		100					4	"weap,exc,uni"	r15	r19	skz				"useitem,mod,eli"																																																																																							0
+[装备品级升级]====	1	1		100					4	"armo,exc,uni"	r15	r19	skz				"useitem,mod,eli"																																																																																							0
 修复武器=9#	1			100					2	"weap,noe"	r09						"useitem,rep,qty=255"																																																																																							0
 修复防具=8#	1			100					2	"armo,noe"	r08						"useitem,rep,qty=255"																																																																																							0
 修复武器并充能=9#+碎裂宝石	1			100					3	"weap,noe"	r09	gem0					"useitem,rep,rch,qty=255"																																																																																							0
 修复防具并充能=8#+裂开宝石	1			100					3	"armo,noe"	r08	gem1					"useitem,rep,rch,qty=255"																																																																																							0
 去掉凹槽物品=15#+回城卷	1			100					3	"any,sock"	r15	tsc					"useitem,uns"																																																																																							0
-取下凹槽物品=24#+回城卷	1			0					3	any,sock	r24	tsc					useitem,rem																																																																																							0
-r08 + jew + superior armor -> tempered armor				100					3	"armo,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
-r08 + jew + superior weapon -> tempered weapon				100					3	"weap,hiq,nos"	jew	r08					"useitem,tmp"																																																																																							0
-r08 + jew + magic ring -> tempered ring				100					3	"ring,mag"	jew	r08					"usetype,tmp"				levelreq			3	3																																																																															0
-r08 + jew + magic amulet -> tempered amulet				100					3	"amu,mag"	jew	r08					"usetype,tmp"				levelreq			5	5																																																																															0
-r01 + gcv + tempered weapon -> +30-50 ar				100					3	"weap,tmp"	r01	gcv					useitem				levelreq			2	2	att			30	50																																																																										0
-蓝色武器打孔=3碎裂宝石	1			0					4	"weap,mag"	"gem0,qty=3"						"usetype,mag"	25		50	sock			1	2																																																																															0
+取下凹槽物品=24#+回城卷	1			100					3	any,sock	r24	tsc					useitem,rem																																																																																							0
 Pandemonium key	1			100	28				3	pk1	pk2	pk3					Pandemonium Portal																																																																																							0
 Pandemonium Finale key	1			100	28				3	dhn	bey	mbr					Pandemonium Finale Portal																																																																																							0
 Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																																																																																							0
@@ -196,17 +182,35 @@ Token of Absolution	1			100					4	tes	ceh	bet	fed				toa																								
 [        ]	1			100					2	any,set,exc	wms						gem4																													gem4																																																										0
 [        ]	1			100					2	any,set	wms						gem4																																																																																							0
 手工物品溶解成宝石	1			100					2	any,crf,upg	wms						gem4																																																																																							0
-[打孔]=1符文+1完美宝石+1溶解药剂	1			100					4	weap,nor,nos	rune	wms	gem4				useitem			100	sock			2	6																																																																															0
-[        ]	1			100					4	armo,nor,nos	rune	wms	gem4				useitem			100	sock			2	4																																																																															0
-[        ]	1			100					4	weap,hiq,nos	rune	wms	gem4				useitem			100	sock			2	6																																																																															0
-[        ]	1			100					4	armo,hiq,nos	rune	wms	gem4				useitem			100	sock			2	4																																																																															0
-[        ]	1			100					4	weap,mag,nos	rune	wms	gem4				useitem			100	sock			2	6																																																																															0
-[        ]	1			100					4	armo,mag,nos	rune	wms	gem4				useitem			100	sock			2	4																																																																															0
-[        ]	1			100					4	weap,rar,nos	rune	wms	gem4				useitem			100	sock			2	2																																																																															0
-[        ]	1			100					4	armo,rar,nos	rune	wms	gem4				useitem			100	sock			2	2																																																																															0
-[        ]	1			100					4	weap,nos	rune	wms	gem4				useitem			100	sock			1	1																																																																															0
-[打孔]====	1			100					4	armo,nos	rune	wms	gem4				useitem			100	sock			1	1																																																																															0
-ED珠宝=6种完美宝石+蓝色珠宝	1			100					7	jew,mag	gpw	gpv	gpb	gpy	gpr	gpg	jew,mag,pre=197	50																																																																																						0
+饰品溶解成骷髅	1			100					2	rin,mag	wms						sku																																																																																							0
+[        ]	1			100					2	rin,rar	wms						skl																																																																																							0
+[        ]	1			100					2	rin,uni	wms						skz																																																																																							0
+[        ]	1			100					2	amu,mag	wms						sku																																																																																							0
+[        ]	1			100					2	amu,rar	wms						skl																																																																																							0
+[        ]	1			100					2	amu,uni	wms						skz																																																																																							0
+[        ]	1			100					2	jew,mag	wms						sku																																																																																							0
+[        ]	1			100					2	jew,rar	wms						skl																																																																																							0
+[        ]	1			100					2	jew,uni	wms						skz																																																																																							0
+[        ]	1			100					2	cm1,mag	wms						sku																																																																																							0
+[        ]	1			100					2	cm1,rar	wms						skl																																																																																							0
+[        ]	1			100					2	cm1,uni	wms						skz																																																																																							0
+[        ]	1			100					2	cm2,mag	wms						sku																																																																																							0
+[        ]	1			100					2	cm2,rar	wms						skl																																																																																							0
+[        ]	1			100					2	cm2,uni	wms						skz																																																																																							0
+[        ]	1			100					2	cm3,mag	wms						sku																																																																																							0
+[        ]	1			100					2	cm3,rar	wms						skl																																																																																							0
+[        ]	1			100					2	cm3,uni	wms						skz																																																																																							0
+[打孔]=15#+1完美骷髅+1溶解药剂	1			100					4	weap,nor,nos	r15	wms	skz				useitem			100	sock			2	6																																																																															0
+[        ]	1			100					4	armo,nor,nos	r15	wms	skz				useitem			100	sock			2	4																																																																															0
+[        ]	1			100					4	weap,hiq,nos	r15	wms	skz				useitem			100	sock			2	6																																																																															0
+[        ]	1			100					4	armo,hiq,nos	r15	wms	skz				useitem			100	sock			2	4																																																																															0
+[        ]	1			100					4	weap,mag,nos	r15	wms	skz				useitem			100	sock			2	6																																																																															0
+[        ]	1			100					4	armo,mag,nos	r15	wms	skz				useitem			100	sock			2	4																																																																															0
+[        ]	1			100					4	weap,rar,nos	r15	wms	skz				useitem			100	sock			2	2																																																																															0
+[        ]	1			100					4	armo,rar,nos	r15	wms	skz				useitem			100	sock			2	2																																																																															0
+[        ]	1			100					4	weap,nos	r15	wms	skz				useitem			100	sock			1	1																																																																															0
+[打孔]====	1			100					4	armo,nos	r15	wms	skz				useitem			100	sock			1	1																																																																															0
+ED珠宝=6种完美宝石+蓝色珠宝	1			100					7	jew,mag	gpw	gpv	gpb	gpy	gpr	gpg	jew,rar,pre=197	50																																																																																						0
 [洗饰品属性]=同类饰品x2	1			0					2	"rin,mag,qty=2"							"rin,mag"			125																																																																																				0
 [        ]	1			0					2	"amu,mag,qty=2"							"amu,mag"			125																																																																																				0
 [        ]	1			0					2	rin,rar,qty=2							rin,rar			125																																																																																				0
@@ -219,7 +223,7 @@ ED珠宝=6种完美宝石+蓝色珠宝	1			100					7	jew,mag	gpw	gpv	gpb	gpy	gpr	gpg	jew,ma
 [        ]	1			100					2	cm1,rar,qty=2							cm1,rar			125																																																																																				0
 [        ]	1			100					2	cm2,rar,qty=2							cm2,rar			125																																																																																				0
 [洗饰品属性]====	1			100					2	cm3,rar,qty=2							cm3,rar			125																																																																																				0
-[做无形无法破坏]=33#+1乔丹之石+解读药剂	1			100					4	any,nor,sock	r33	soj	yps				useitem			100	indestruct			-1	-1	ethereal			1	1	indestruct			1	1																																																																					0
+[做无形无法破坏]=33#+1乔丹之石+解毒药剂	1			100					4	any,nor,sock	r33	soj	yps				useitem			100	indestruct			-1	-1	ethereal			1	1	indestruct			1	1																																																																					0
 [        ]	1			100					4	any,hiq,sock	r33	soj	yps				useitem			100	indestruct			-1	-1	ethereal			1	1	indestruct			1	1																																																																					0
 [        ]	1			100					4	any,sock,eth	r33	soj	yps				useitem			100	indestruct			1	1																																																																															0
 洗白色物品=1亮金	1			100					2	weap,nor	any,rar						usetype,hiq			100																																																																																				0
@@ -227,4 +231,6 @@ ED珠宝=6种完美宝石+蓝色珠宝	1			100					7	jew,mag	gpw	gpv	gpb	gpy	gpr	gpg	jew,ma
 [        ]	1			100					2	any,hiq	any,rar						usetype,hiq			100																																																																																				0
 洗蓝色物品=1绿装	1			100					2	any,mag	any,set						usetype,mag			100																																																																																				0
 洗亮金物品=1暗金	1			100					2	any,rar	any,uni						usetype,rar			100																																																																																				0
-魔法变亮金=3符文+3完美宝石	1			100					7	any,mag	rune,qty=3	gem4,qty=3					usetype,rar			100																																																																																				0
+洗蓝色物品=3完美宝石	1			100					4	"any,mag"	"gem4,qty=3"						"usetype,mag"			100																																																																																				0
+洗黄色物品=6完美宝石	1			0					7	"any,rar"	"gem4,qty=6"						"usetype,rar"			100																																																																																				0
+魔法变亮金=20#x3+3完美宝石	1			100					7	any,mag	r20,qty=3	gem4,qty=3					usetype,rar			100																																																																																				0
