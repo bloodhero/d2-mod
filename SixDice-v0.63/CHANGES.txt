@@ -1,0 +1,102 @@
++---------------------+
+| Changes since v0.61 |
++---------------------+
+
+* Added a zoom control for the image display panel.
+
+* Added a definite progress bar in both GUI and console modes.
+
+* Increased palette-mapping cache size.  This increases the size requirement of palettes (from a maximum of 8K each to a maximum of 512K each) but, for almost all images, dramatically reduces the amount of time spent dithering and encoding images.
+
+* Corrected an error which prevented the command-line interface from properly parsing color values expressed in hexadecimal.
+
+* Added a batch offset adjustment function.
+
+* Fixed a bug which caused SixDice to offer to write in image formats for which there was no available writer.
+
+* Fixed an offset problem by adding a metadata file on batch exports.  This metadata file contains the absolute virtual offset of the associated animation.  This corrects a problem which caused animations to move on the whole if their absolute virtual offsets were not (0,0) (such as in the case of most everything except inventory items).
+
+
++---------------------+
+| Changes since v0.56 |
++---------------------+
+
+* Splitting a frame to a size other than 256x256 should now work properly.
+
+* It is now possible to remove more than one frame or more than one direction from an animation; previously, only one could be removed at a time even if more than one were selected.
+
+* Fixed a bug in the DC6 encoder which would incorrectly encode lines with more than 127 consecutive transparent pixels.  This problem caused issues in frail DC6 decompressors (such as the one found in Diablo II) preventing the image from being displayed.  Additionally, since Diablo II's DCC decoder requires DC6 encoding information from the DCC file, this problem caused DCC files with lines of more than 127 consecutive transparent pixels to crash the game.
+
+* Pressing the Show Warnings button multiple times will no longer freeze the application.
+
+* Fixed a bug in the DCC encoder which could rarely cause content from a previous frame's bottom line to be drawn on the next frame.
+
+
++---------------------+
+| Changes since v0.55 |
++---------------------+
+
+* Removed the extraneous "<html>" text in the palette change warning.
+
+* Recursive batch conversion now produces log output as expected.  Previously, only the first directory processed would generate log output.
+
+* Adjusted the batch conversion to run on a lower-priority thread.  This should prevent the SixDice window from displaying improperly during a batch convert.
+
+* The batch conversion operation in the GUI now produces a log file in the user's home directory.  This may be helpful in identifying bugs in the future.
+
+* A new error dialog should appear if anything goes enormously wrong.  However, this itself has not been thoroughly tested, as I am trying to release the fix for the "Please Wait" stalling problem.
+
+* Hopefully, I have fixed the problem which causes the "Please Wait" dialog to appear and never go away.  I have been unable to reliably reproduce this bug on my test systems, however, so I'm not sure if this "fix" will actually do anything.
+
+
++---------------------+
+| Changes since v0.42 |
++---------------------+
+
+* The DCC read process is now much more efficient; there should no longer be a noticeable drag when loading larger DCC files.
+
+* The DCC read process was only allocating 16Kb for buffering each bitstream.  This would cause SixDice to fail to load DCC files with bitstreams larger than 16Kb.  The buffer size is now more appropriately based upon the size of the bitstream which will be buffered.  Thanks to Paul Siramy for providing the initial bug report which lead to the discovery of this problem.
+
+* SixDice was improperly handling some DCC frames with a height of 5, which caused problems in loading certain simple graphics (such as directions 5 and 7 in the arrow.dcc missile animation in Diablo II).  This has been fixed.  Thanks again to Paul Siramy for pointing this out.
+
+* Using "Trim Borders" on a completely transparent image would previously cause crashes.  This has been fixed.
+
+* The file history was previously recording equivalent files as separate entries on case-insensitive filesystems.  This has been remedied.
+
+* DCC writing is now supported!  The process isn't perfect; some of the DCCs written by SixDice are larger than the originals by Diablo II by almost as much as 5%.  Improving this will be considered in the future.  In the meanwhile, MPQs should keep the extra fluff down.
+
+* The congifuration menu has been reorganized to be easier to navigate.
+
+* Several new configuration options have been added.
+
+* Batch conversion (both GUI and command-line) have been changed to accomodate the new multi-codec structure.
+
+* Images are now stored in memory in unaltered form; to view the images using a specific palette, see the checkbox in the bottom-middle of the GUI.
+
+* Image underlay display has been added, allowing transparent pixels to be easily identified.
+
+* The palette selection is no longer used except when exporting the file.  As a result, importing an image and then changing the palette no longer distorts the image.
+
+* The core of the program has been drastically changed.  This means that it will be much more adaptable to future changes; it also means I changed a great deal of the code making things work that appeared in previous versions.  In short, **EXPECT BUGS.**  I'll be quite happy to fix them, but I wanted to make DCC write support available, so I released this version with enough testing to ensure (hopefully) that the most important features were working.
+
+
++---------------------+
+| Changes since v0.36 |
++---------------------+
+
+* The file history (recently used files appearing in the File menu) was not recording new files properly.  This has been fixed.
+
+* SixDice now supports reading DCC files as well as DC6 files.  DCC write support is planned for a version in the near future.
+
+
++---------------------+
+| Changes since v0.34 |
++---------------------+
+
+* A new "Split Frame" option allows the user to split a single animation frame into multiple frames.  This option was already supported in SixDice, but only at the time of import.  Because v0.34 made the splitting of a frame optional, it is now executable on request.
+
+* A new "Join Frames" option allows the logical reverse of "Split Frame"; multiple frames of a single direction can be selected and joined together, forming one large image.  That image can then be exported or be chosen to replace the images from which it was constructed.  Diablo II stores large UI images as multi-frame DC6 files; this option allows a user to export the image, edit it, and then, using the pre-existing import functionality, place the edited version back into the DC6.
+
+* New configuration options were added regarding frame replacement.  Right-click on the text labels for these options in the Preferences menu for more information.
+
+* "Trim Borders" and "Center Offset" options, along with the two new options, are disabled unless an animation file is loaded.

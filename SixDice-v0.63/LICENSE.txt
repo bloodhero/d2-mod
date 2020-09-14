@@ -1,0 +1,5 @@
+SixDice is the property of its author, Zachary E. Palmer.  You are permitted to make copies of and distribute this software provided that you include all of the bundled media and documentation (including but not limited to the "README-FIRST.txt" file and this file) unmodified and in the exact condition as you received it.  You are permitted to use this software freely for personal or non-profit purposes.
+
+You are specifically *NOT* permitted to reverse engineer any portion of this software.  You are *NOT* permitted to use this software for any profit-making purposes.  If you need to do these things, I may be willing to allow it, but I must be contacted beforehand (zep_sixdice@bahj.com) and provide to you a signed document stating that your special case is admissible.
+
+THIS PRODUCT IS PROVIDED AS-IS, WITHOUT ANY WARRANTY, EXPLICIT OR IMPLIED.  NEITHER THE AUTHORS NOR THE DISTRIBUTORS OF THIS SOFTWARE WILL BE RESPONSIBLE FOR ANY DAMAGES OF ANY FORM WHICH MAY OCCUR AS A RESULT OF ITS USE OR MISUSE, INCLUDING BUT NOT LIMITED TO LOSS OF DATA, WORK, OR ASSETS.  THE USER ACCEPTS ANY AND ALL RESPONSIBILITY FOR THE USE OF THIS SOFTWARE.  USE AT YOUR OWN RISK.
