@@ -3,8 +3,8 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 任务(勿动)	1	1		100	28				4	qf1	qhr	qey	qbr				qf2																																																																																							0
 合成奶牛关	1	1		100	28				2	leg	tbk						Cow Portal																																																																																							0
 3小紫=1大紫	1	1		100					3	"rvs,qty=3"							rvl																																																																																							0
-[蓝色饰品升亮金]=同种蓝色饰品x3	1	1		100					3	"rin,mag,qty=3"							"amu,rar"			125																																																																																				0
-[        ]	1	1		100					3	"amu,mag,qty=3"							"rin,rar"			125																																																																																				0
+[蓝色饰品升亮金]=同种蓝色饰品x3	1	1		100					3	"rin,mag,qty=3"							"rin,rar"			125																																																																																				0
+[        ]	1	1		100					3	"amu,mag,qty=3"							"amu,rar"			125																																																																																				0
 [        ]	1	1		100					3	"jew,mag,qty=3"							"jew,rar"			125																																																																																				0
 [        ]	1	1		100					3	"cm1,mag,qty=3"							"cm1,rar"			125																																																																																				0
 [        ]	1	1		100					3	"cm2,mag,qty=3"							"cm2,rar"			125																																																																																				0
