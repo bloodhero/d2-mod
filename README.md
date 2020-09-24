@@ -1,5 +1,27 @@
 ﻿# Diablo II 1.13c 佣兵传奇MOD 版本历史
 
+安装步骤：
+1. 从1.13c游戏文件夹中复制如下文件：
+```
+d2char.mpq
+d2data.mpq
+d2exp.mpq
+d2music.mpq
+d2sfx.mpq
+d2speech.mpq
+d2video.mpq
+d2xmusic.mpq
+d2xtalk.mpq
+d2xvideo.mpq
+```
+复制到MOD文件夹内
+
+2. 运行glide-init.exe
+点击 English/Deutsch 切换为英语
+点击 settings ,勾选 window-mode, static size 设置为1024x768
+
+3. Game.exe 创建快捷方式 挂参数 -direct -txt -w -3dfx 即可游戏
+
 ## MOD特色
 - 基于1.13c做的微改版本
 - 鞋子、手套、腰带、标枪可以打孔
