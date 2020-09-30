@@ -100,7 +100,9 @@ description	enabled	ladder	min diff	version	op	param	value	class	numinputs	input
 [        ]	1	1		100					3	"weap,exc,rar"	skz	vps					"useitem,mod,eli"																																																																																							0
 [        ]	1	1		100					3	"armo,exc,rar"	skz	vps					"useitem,mod,eli"																																																																																							0
 [        ]	1	1		100					3	"weap,exc,uni"	skz	vps					"useitem,mod,eli"																																																																																							0
-[基础->扩展->精英]====	1	1		100					3	"armo,exc,uni"	skz	vps					"useitem,mod,eli"																																																																																							0
+[        ]	1	1		100					3	"armo,exc,uni"	skz	vps					"useitem,mod,eli"																																																																																							0
+[        ]	1	1		100					3	"weap,exc,set"	skz	vps					"useitem,mod,eli"																																																																																							0
+[基础->扩展->精英]====	1	1		100					3	"armo,exc,set"	skz	vps					"useitem,mod,eli"																																																																																							0
 [修复武器]=9#	1	1		100					2	"weap,noe"	r09						"useitem,rep,rch,qty=255"																																																																																							0
 [修复防具]=8#	1	1		100					2	"armo,noe"	r08						"useitem,rep,rch,qty=255"																																																																																							0
 [去掉凹槽物品]=20#+1回城卷	1	1		100					3	"any,sock"	r20	tsc					"useitem,uns"																																																																																							0
